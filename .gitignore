@@ -3,3 +3,7 @@ Contact_Information.patch
 Runtime/Prefabs/.DS_Store
 
 Contact_Information.patch.meta
+
+
+# development environments
+.vs
